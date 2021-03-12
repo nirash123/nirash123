@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=nirash123&theme=flat" alt="nirash123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirash123" alt="nirash123" /></a> </p>
 
 - 📫 How to reach me **nirashdulanjan@gmail.com**
 
