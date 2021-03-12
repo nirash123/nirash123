@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nirash Dulanjan</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p> https://github-profile-trophy.vercel.app/?username=nirash123&theme=flat</p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=nirash123&theme=flat" alt="nirash123" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirash123&label=Profile%20views&color=0e75b6&style=flat" alt="nirash123" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirash123" alt="nirash123" /></a> </p>
 
 - 📫 How to reach me **nirashdulanjan@gmail.com**
 
